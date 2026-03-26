@@ -1,1 +1,3 @@
 My initial Message
+
+This document helps us is understandinf how github works
